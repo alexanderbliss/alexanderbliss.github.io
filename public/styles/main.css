@@ -91,6 +91,8 @@ header .navbar-default {
 
 .main-logo {
   float: left;
+  width: 250px;
+  height: 50px;
 }
 
 .main-tab {
@@ -282,8 +284,8 @@ Projects
 }
 
 .card-img-top {
-  height: 250px;
-  width: 300px;
+  height: 150px;
+  width: 150px;
   border-radius: 10px;
   margin-top: 40px;
 }
@@ -387,4 +389,9 @@ footer {
 
 .footer-nav {
   text-align: left;
+}
+
+
+.project{
+  color: white;
 }
